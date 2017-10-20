@@ -1,0 +1,10 @@
+D:\Projects\Cplotki\GraphicKolkoKrzyzyk\GraphicKolkoKrzyzyk\obj\Debug\GraphicKolkoKrzyzyk.csprojResolveAssemblyReference.cache
+D:\Projects\Cplotki\GraphicKolkoKrzyzyk\GraphicKolkoKrzyzyk\obj\Debug\GraphicKolkoKrzyzyk.Form1.resources
+D:\Projects\Cplotki\GraphicKolkoKrzyzyk\GraphicKolkoKrzyzyk\obj\Debug\GraphicKolkoKrzyzyk.Properties.Resources.resources
+D:\Projects\Cplotki\GraphicKolkoKrzyzyk\GraphicKolkoKrzyzyk\obj\Debug\GraphicKolkoKrzyzyk.csproj.GenerateResource.Cache
+D:\Projects\Cplotki\GraphicKolkoKrzyzyk\GraphicKolkoKrzyzyk\obj\Debug\GraphicKolkoKrzyzyk.csproj.CoreCompileInputs.cache
+D:\Projects\Cplotki\GraphicKolkoKrzyzyk\GraphicKolkoKrzyzyk\bin\Debug\GraphicKolkoKrzyzyk.exe.config
+D:\Projects\Cplotki\GraphicKolkoKrzyzyk\GraphicKolkoKrzyzyk\bin\Debug\GraphicKolkoKrzyzyk.exe
+D:\Projects\Cplotki\GraphicKolkoKrzyzyk\GraphicKolkoKrzyzyk\bin\Debug\GraphicKolkoKrzyzyk.pdb
+D:\Projects\Cplotki\GraphicKolkoKrzyzyk\GraphicKolkoKrzyzyk\obj\Debug\GraphicKolkoKrzyzyk.exe
+D:\Projects\Cplotki\GraphicKolkoKrzyzyk\GraphicKolkoKrzyzyk\obj\Debug\GraphicKolkoKrzyzyk.pdb

@@ -1,0 +1,7 @@
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\KolkoKrzyzykEngine\KolkoKrzyzykEngine\obj\Debug\KolkoKrzyzykEngine.csprojResolveAssemblyReference.cache
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\KolkoKrzyzykEngine\KolkoKrzyzykEngine\obj\Debug\KolkoKrzyzykEngine.csproj.CoreCompileInputs.cache
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\KolkoKrzyzykEngine\KolkoKrzyzykEngine\bin\Debug\KolkoKrzyzykEngine.exe.config
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\KolkoKrzyzykEngine\KolkoKrzyzykEngine\bin\Debug\KolkoKrzyzykEngine.exe
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\KolkoKrzyzykEngine\KolkoKrzyzykEngine\bin\Debug\KolkoKrzyzykEngine.pdb
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\KolkoKrzyzykEngine\KolkoKrzyzykEngine\obj\Debug\KolkoKrzyzykEngine.exe
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\KolkoKrzyzykEngine\KolkoKrzyzykEngine\obj\Debug\KolkoKrzyzykEngine.pdb
